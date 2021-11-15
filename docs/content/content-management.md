@@ -7,4 +7,4 @@ Content player is used for consuming the content by end user
 
 * Content Editors
 * Content Players
-* [APIs](content/API/content-api.md)
+* [APIs](API/content-api.md)
